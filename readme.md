@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, soy yohan</h1><h3 align="center">Un desarrollador frontend apasionado de colombia</h3>
 
 
-- Actualmente estoy aprendiendo GitHub,java,html,css,javaScript- Cómo comunicarse conmigo yohanbar30@gmail.com
+- Actualmente estoy aprendiendo GitHub,java,html,css,javaScript
+- Cómo comunicarse conmigo yohanbar30@gmail.com
 
 
 
