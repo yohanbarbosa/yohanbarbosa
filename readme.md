@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy yohan</h1><h3 align="center">Un desarrollador frontend apasionado de colombia</h3>
+<h1 align="center">Hola 👋, soy yohan</h1><h3 align="center">Un desarrollador apasionado de colombia</h3>
 
 
 - Actualmente estoy aprendiendo GitHub,java,html,css,javaScript
