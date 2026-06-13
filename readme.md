@@ -112,8 +112,17 @@
 ----
 	
 <p align="center">
-	<img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?			username=yohanbarbosa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yohanbarbosa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO&layout=compact&theme=tokyonight"
+    height="180"
+  />
+</p>
+
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
