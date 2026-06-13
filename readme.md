@@ -13,7 +13,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Engineering](https://ufpso.edu.co/fing/) at [university francisco de paula santander](https://ufpso.edu.co/).
+- :school: I am a `Junior` at [Faculty of Engineering](https://ufpso.edu.co/facultad_de_ingenieria) at [university francisco de paula santander](https://ufpso.edu.co/).
 - :trophy: 0
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning  `Software Engineering`.
